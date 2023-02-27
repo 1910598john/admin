@@ -24,15 +24,15 @@
         <button id="show">Show</button>
         <div class="main-content">
             <div class="playground-report-wrapper">
-                <div>Playground Daily Sales</div>
+                <div>Playground Sales</div>
                 <div id="playground-daily-report">0</div>
             </div>
             <div class="cafe-report-wrapper">
-                <div>Cafe Daily Sales</div>
+                <div>Cafe Sales</div>
                 <div id="cafe-daily-report">0</div>
             </div>
             <div class="total-report-wrapper">
-                <div>Total Daily Sales</div>
+                <div>Total Sales</div>
                 <div id="total-daily-report">0</div>
             </div>
         </div>

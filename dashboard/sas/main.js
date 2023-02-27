@@ -34,7 +34,12 @@ $(document).ready(function(){
         }
     })
 
+    $("#options").on("change", function(){
+        alert($(this).val())
+    })
+    
     function fetchSalesReport(d){
+        
         let date;
         if (d.length == 5) {
             date = d.slice(-1);

@@ -10,6 +10,7 @@
     <div class="product-form-wrapper">
         <h1>INSERT ITEM</h1>
         <div class="form">
+            <input type="text" id="stock" placeholder="Stock" required="required" />
             <input type="text" id="discount" placeholder="Discount" required="required" />
             <input type="text" id="name" placeholder="Name" required="required" />
             <input type="text" id="description" placeholder="Description" required="required" />
